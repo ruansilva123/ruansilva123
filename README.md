@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-Hello, my name is Ruan Carlos da Silva, I am 20 years old, and I am constantly seeking to learn and grow in the field of technology. Currently, I am studying **Information Technology Management** at **Univille**. Lastly, I work as a **Digital Solutions Apprentice** at **Robert Bosch Ltda**.
+Hello, my name is Ruan Carlos da Silva, I am 20 years old, and I am constantly seeking to learn and grow in the field of technology. Currently, I am studying **Systems Analisys and Development** at **UDESC**. Lastly, I work as a **Digital Solutions Apprentice** at **Robert Bosch Ltda**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ruan-carlos-da-silva-8354b1322/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_ruancsilva/)
